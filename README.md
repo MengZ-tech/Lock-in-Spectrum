@@ -1,4 +1,4 @@
-# Lock-in-spectrum
+# Lock-in-Spectrum
 Lock-in Spectrum: A Tool for Representing Long-term Evolution of Bearing Fault in the Time-Frequency Domain using Vibration Signal 
 
 Here is the implementation code for the Lock-in spectrum. This tool uses the frequency sweeping principle of a lock-in amplifier (LIA) to measure signal amplitude components over a range of frequencies. When applied to long-term monitoring data of bearing vibration signals, it allows us to observe how fault components evolve in the time-frequency domain, even in scenarios where common time-frequency tools like STFT struggle.
