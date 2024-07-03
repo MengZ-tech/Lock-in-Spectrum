@@ -9,4 +9,4 @@ EXAMPLE: https://drive.google.com/file/d/1kMzG-fA3T314pTHUTNA7geJtAgyjx2z7/view?
 
 FULL DATA: https://biaowang.tech/xjtu-sy-bearing-datasets/
 
-My code is free to use—so please do not sell it. Cite it as follows: Meng Zhang, Lock-in Spectrum: A Tool for Representing Long-term Evolution of Bearing Fault in the Time-Frequency Domain using Vibration Signal, Sensor Review, 2024. (I will provide the DOI as soon as it becomes available).
+My code is free to use—so please do not sell it. Cite it as follows: Meng Zhang, Lock-in Spectrum: A Tool for Representing Long-term Evolution of Bearing Fault in the Time-Frequency Domain using Vibration Signal, Sensor Review, 2024 (DOI: 10.1108/SR-04-2024-0365).
