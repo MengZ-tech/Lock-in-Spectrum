@@ -6,6 +6,7 @@ Here is the implementation code for the Lock-in spectrum. This tool uses the fre
 The core code of this tool is available in the GitHub repository, and an implementation case on the XJTU-SY dataset is provided in the following link: 
 
 EXAMPLE: https://drive.google.com/file/d/1kMzG-fA3T314pTHUTNA7geJtAgyjx2z7/view?usp=drive_link
+
 FULL DATA: https://biaowang.tech/xjtu-sy-bearing-datasets/
 
 My code is free to use—so please do not sell it. Cite it as follows: Meng Zhang, Sensor Review, 2024. (I will provide the DOI as soon as it becomes available).
